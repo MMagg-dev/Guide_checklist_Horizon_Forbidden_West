@@ -1,2 +1,1 @@
-# Guide_checklist_horizon_forbidden_west
-Official page for the Android app Guide, Checklist - Horizon FW
+# Guide, Checklist - Horizon Forbidden West (coming soon)
