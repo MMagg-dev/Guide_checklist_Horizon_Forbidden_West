@@ -32,7 +32,7 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 
 
 ## Screenshots
-Coming soon
+![Dashboard Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/1_dashboard_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Search Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/2_search_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settings Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/3_settings_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Weapon Info Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/4_weapon_info_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Side Quests Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/5_side_quests_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/6_achievements_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Datapoints Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/7_datapoints_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![The Frozen Wilds Datapoints Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/8_tfw_datapoitns_dark.png)
 
 
 ## Notes
