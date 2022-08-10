@@ -8,6 +8,7 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 
 
 ## App Features
+* Game guide including tips and tricks
 * Search content across all lists
 * Tips and tricks for a better playthrough
 * Progress tracker
