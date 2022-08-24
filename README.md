@@ -1,6 +1,8 @@
-# Guide, Checklist - Horizon Forbidden West (coming soon)
+# Guide, Checklist - Horizon Forbidden West
 
 An unofficial checklist, progress tracker, and guide for the Horizon Forbidden West game. Explore the world of Forbidden West set in post apocalyptic California, Nevada, and Utah and make sure you don't miss out on any quest, achievement, collectible, gear, or datapoints in the game when you follow Aloy's story as she ventures into the Forbidden West to find the source of the blight and save the world.
+
+[![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.forbiddenwestguide)
 
 
 ## Additional Content
