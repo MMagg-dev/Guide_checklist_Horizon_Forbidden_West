@@ -35,7 +35,7 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 
 
 ## Screenshots
-Coming Soon
+![Guide Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/1_guide_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Dashboard Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/2_dashboard_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Search Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/3_search_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Side Quest Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/4_side_quests_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Weapon Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/5_weapons_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Light](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/6_achievements_light.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Dyes Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/7_dyes_dark.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Datapoints Dark](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/screenshots/8_datapoints_world_dark.png)
 
 
 ## Notes
