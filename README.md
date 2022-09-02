@@ -26,7 +26,7 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 * All the main story quests along with side quests and errands in the game.
 * Various location activities such as arena challenges, cauldrons, gauntlet runs, hunting grounds, melee pits, rebel camps, rebel outposts, relic ruins, salvage contracts, sunken caverns, and Tallnecks.
 * All achievements in the game along with some tips on easily earning them.
-* A list of all the legendary weapons and outfits along with the materials/quests required to get them.
+* A list of all the weapons and outfits along with the materials/quests required to get them.
 * All of the outfit dyes, and face paints that Aloy can use or apply in the game.
 * All the collectibles in the game such as black boxes, signal drones, survey lenses, vista points, and war totems.
 * All the audio and text datapoints in the game along with holograms, scanned glyphs, and relic ruins datapoints. We have also provided information on the locations of each of the datapoints.
