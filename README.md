@@ -6,6 +6,7 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 
 
 ## Additional Content
+* Burning Shores DLC
 * New Game+
 
 
@@ -22,16 +23,25 @@ An unofficial checklist, progress tracker, and guide for the Horizon Forbidden W
 * Option to move checked items to the bottom of lists
 
 
+## Guides
+* Tips and Tricks
+* Weapons, Outfits, and Skills
+* Location Activities and Collectibles
+* Pouch Upgrades
+* Burning Shores DLC
+
+
 ## Checklists
 * All the main story quests along with side quests and errands in the game.
 * Various location activities such as arena challenges, cauldrons, gauntlet runs, hunting grounds, melee pits, rebel camps, rebel outposts, relic ruins, salvage contracts, sunken caverns, and Tallnecks.
-* All achievements in the game along with some tips on easily earning them.
+* All achievements in the game along with some tips on easily earning them. This includes the DLC and new game +.
 * A list of all the weapons and outfits along with the materials/quests required to get them.
 * All of the outfit dyes, and face paints that Aloy can use or apply in the game.
 * All the collectibles in the game such as black boxes, signal drones, survey lenses, vista points, and war totems.
 * All the audio and text datapoints in the game along with holograms, scanned glyphs, and relic ruins datapoints. We have also provided information on the locations of each of the datapoints.
 * A list of all the machines and their class types.
 * Weapons and outfits from New Game+ mode are also available.
+* Burning Shores DLC content includes quests, activities, Pangea figurines, delver's trinkets, aerial captures, weapons, outfits, dyes, face paints, and datapoints.
 
 
 ## Screenshots
@@ -45,7 +55,3 @@ Please note that this is a third-party, fan-made application. This app is not ma
 
 ## Legal
 View the [Privacy Policy](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Guide_checklist_Horizon_Forbidden_West/tree/main/legal).
-
-
-## Upcoming Content
-* All content from any upcoming DLC
